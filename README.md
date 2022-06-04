@@ -4,3 +4,5 @@ This soon to be software I am creating will become a security engine. It records
 
 
 Password is: **lion**
+
+To open start: **menu.py**
